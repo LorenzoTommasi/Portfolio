@@ -1,0 +1,41 @@
+
+  main {
+    text-align:center;
+  }
+
+  header {
+    text-align: center;
+  }
+  
+  .nav-bar {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .nav-bar li {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  .skill-list {
+    list-style-type: none; 
+    padding: 0; 
+  }
+  
+  .skill-list li {
+    display: inline-block;
+    margin: 10px 0; 
+  }
+  
+  .skill-list img {
+    max-width: 48px; 
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+  }
+
+  .contact-list {
+    list-style-type: none; 
+    padding: 0px;
+  }
+  
